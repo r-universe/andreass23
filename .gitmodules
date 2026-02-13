@@ -5,3 +5,15 @@
 [submodule "eVCGsampler"]
 	path = eVCGsampler
 	url = https://github.com/cran/eVCGsampler
+[submodule "epade"]
+	path = epade
+	url = https://github.com/cran/epade
+[submodule "etable"]
+	path = etable
+	url = https://github.com/cran/etable
+[submodule "pBrackets"]
+	path = pBrackets
+	url = https://github.com/cran/pBrackets
+[submodule "vtype"]
+	path = vtype
+	url = https://github.com/cran/vtype
