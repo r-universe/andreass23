@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "eVCGsampler"]
-	path = eVCGsampler
-	url = https://github.com/cran/eVCGsampler
 [submodule "epade"]
 	path = epade
 	url = https://github.com/cran/epade
